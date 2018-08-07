@@ -22,7 +22,7 @@ You can use this API as part of your automation process to:
 Disconnect a node from IRS instance:
 
 ```
-curl -s -v -X DELETE http://irs_api/v1/irs/node/del/hostname.fqdn.com
+curl -uirs:cloudtoirs -s -v -X DELETE http://irs_api/v1/irs/node/del/hostname.fqdn.com
 ```
 
 The same using hpilo_cli command line:
