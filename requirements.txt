@@ -1,0 +1,5 @@
+Flask
+werkzeug
+flask_json
+python-hpilo
+psycopg2-binary
