@@ -26,6 +26,7 @@ ilo_password=app.config['ILO_PASSWORD']
 ers_destination_port=app.config['ERS_DESTINATION_PORT']
 db_username=app.config['DB_USERNAME']
 db_password=app.config['DB_PASSWORD']
+db_port=app.config['DB_PORT']
 irs_database=app.config['IRS_DATABASE']
 
 
